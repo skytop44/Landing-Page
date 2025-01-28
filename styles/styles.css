@@ -144,36 +144,3 @@ body {
 }
 
 /* cta section */
-
-.cta{
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 40px 20px;
-  background-color: #1F2937;
-  color: #F9FAF8;
-  padding-top: 100px;
-  padding-left: 200px;
-  padding-right: 200px;
-}
-.cta-box{
-  padding-left: 200px;
-  padding-right: 800px;
-  background-color: #3882F6;
-}
-.cta-box h1{
-  font-size: 48px;
-  color: #F9FAF8;
-  font-weight: 900;
-  margin: 0;
-  max-width: 370px;
-  overflow-wrap: break-word;
-}
-
-.cta-box p{
-  font-size: 18px;
-  color: #E5E7EB;
-  margin: 0;
-  max-width: 460px;
-  overflow-wrap: break-word;
-} 
